@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T19:37:05.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ZUKW4ftLYHEju25tUpeX" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T19:39:17.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6dOwBq6g-voNVKml0Rlv" version="21.0.6" type="github">
   <diagram name="Page-1" id="vG4r1ZU1F1tFnuL-1ezL">
     <mxGraphModel dx="1754" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -351,24 +351,6 @@
             <mxPoint x="3390" y="2190" as="sourcePoint" />
             <mxPoint x="3390" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-196" value="&lt;h1&gt;Receive Data From All except Doctor&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3520" y="10" width="440" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JHE3BNfb4ep6dm02MJn9-197" target="JHE3BNfb4ep6dm02MJn9-206">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-197" value="Get Data" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="60" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-212" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="JHE3BNfb4ep6dm02MJn9-206" target="JHE3BNfb4ep6dm02MJn9-211">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-206" value="Auth Token" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3640" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JHE3BNfb4ep6dm02MJn9-211" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3540" y="380" width="320" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
